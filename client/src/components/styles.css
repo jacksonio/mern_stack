@@ -1,0 +1,4 @@
+.max_table_cell_width {
+    max-width: 20rem;
+    overflow: scroll;
+}
